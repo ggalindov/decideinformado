@@ -5,6 +5,7 @@ import CandidateGallery from "@/components/candidate-gallery"
 import OtherCandidates from "@/components/other-candidates"
 import Footer from "@/components/footer"
 import ComparisonGrid from "@/components/comparision-grid"
+import "./globals.css"
 
 export default function Home() {
   return (
