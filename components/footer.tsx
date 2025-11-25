@@ -73,7 +73,7 @@ export default function Footer() {
           {/* Contact Section */}
           <div>
             <h4 className="text-xl font-bold mb-4 text-[#FFCC33]">Contacto</h4>
-            <p className="text-blue-100 mb-2">Elaborado por: Luisa postres</p>
+            <p className="text-blue-100 mb-2">Elaborado por: Luisa Fernanda Villate Bustos</p>
             <p className="text-blue-100 text-sm">
               Esta plataforma es administrada de manera independiente y no representa a ningún partido político.
             </p>
